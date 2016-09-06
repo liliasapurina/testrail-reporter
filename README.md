@@ -13,7 +13,7 @@ Report test results to TestRail using Jasmine
       version: "<test version>"
     }));
 ```
-## test_id_distionary.json
+## test_id_dictionary.json
 ```
  {
   <test_title>: <test_id>
