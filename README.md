@@ -8,9 +8,16 @@ Report test results to TestRail using Jasmine
       host: "<url>",
       username: "<user email>",
       password: "<password/apikey>",
-      testIdDictionary: "<test_id>",
+      testIdDictionary: "<test_id_distionary.json>",
       // optional parameter
       version: "<test version>"
     }));
 ```
+## test_id_distionary.json
+```
+ {
+  <test_title>: <test_id>
+ }
+```
+
 If test_id is undefined, report in TestRail isn't generated.
