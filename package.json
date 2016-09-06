@@ -1,0 +1,20 @@
+{
+  "name": "testrail-reporter",
+  "description": "Report protractor test results to TestRail",
+  "version": "1.0.0",
+  "main": "testrail-reporter.js",
+  "dependencies": {
+    "testrail-promise": "0.x"
+  },
+  "author": {
+    "name": "Lilia Sapurina"
+  },
+  "keywords": [
+    "testrail",
+    "protractor",
+    "jasmine",
+    "reporter",
+    "test"
+  ],
+  "license": "PETER-SERVICE"
+}
